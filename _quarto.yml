@@ -11,13 +11,12 @@ website:
         href: index.qmd
       - services.qmd
       - contact.qmd
-  
 
 format:
   html:
     theme: minty
     toc: true
-    
-    execute:
+
+execute:
   freeze: true
 
