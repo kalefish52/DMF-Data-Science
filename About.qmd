@@ -1,7 +1,0 @@
----
-title: "Who we are"
-about:
-  template: trestles
----
-
-Services are provided by Dr. Kaleigh Fisher who has more than ten years of experience with data management, statistical analyses, research design, and teaching. She received her B.S. and M.S. degrees in Biology from University of Michigan and PhD in Entomology at University of California, Riverside. She has led and participated in national and international research collaborations on bumble bee conservation and genomics. She has formally taught Statistics, Evolution, and Environmental Science at University of California, Davis and Santa Clara University.

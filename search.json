@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "Who we are",
+    "section": "",
+    "text": "Services are provided by Dr. Kaleigh Fisher who has more than ten years of experience with data management, statistical analyses, research design, and teaching. She received her B.S. and M.S. degrees in Biology from University of Michigan and PhD in Entomology at University of California, Riverside. She has led and participated in national and international research collaborations on bumble bee conservation and genomics. She has formally taught Statistics, Evolution, and Environmental Science at University of California, Davis and Santa Clara University."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you are interested in our services, please contact dmfdatascience@gmail.com to set up a consultation."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DMF Data Science",
+    "section": "",
+    "text": "DMF Data Science provides consulting services related to data management, statistics, and project report generation using the R language platform. We have consulted on academic, non-profit, and private sector projects related to public health, research in ecology and evolution, and product trial data."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Team training to develop skills in data management, statistical analyses, and project reports.\n\nIndividualized curriculum development to suit the needs of your team or project.\nQuality analysis and quality control.\nIn-person or virtual training.\nFollow-up technical support and assistance for specific projects.\n\nTechnical assistance\n\nManagement of existing or future data and analyses\nIndividualized reproducible workflows that can be generally used across projects.\nProject report generation using Rmardown and Rshiny."
+  }
+]
