@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "DMF Data Science"
+  site-url: "https://kalefish52.github.io/DMF-Data-Science/"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - services.qmd
+      - contact.qmd
+  
+
+format:
+  html:
+    theme: minty
+    toc: true
+    
+    execute:
+  freeze: true
+
