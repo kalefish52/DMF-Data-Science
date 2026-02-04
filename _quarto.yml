@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: pulse
     toc: true
 
 execute:
